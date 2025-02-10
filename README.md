@@ -1,11 +1,11 @@
 ### Hi there! 👋 I'm Anmol Srivastav
 
-I am a **Data Analyst** with 1.5 years of experience, passionate about transforming raw data into actionable insights. Skilled in **SQL, Python, Excel, and Tableau**, I specialize in data visualization, reporting, and business intelligence.
+I am a Data Analyst with 1.5 years of experience. I am passionate about transforming raw data into actionable insights. Skilled in SQL, Python, Excel, and Tableau, I specialize in data analysis, visualization, dashboards & reporting.
 
 ---
 
 ### 🚀 About Me
-- 📊 Data Analyst with experience in **business intelligence and data-driven decision-making**.
+- 📊 Data Analyst with experience in **data analytics and data-driven decision-making**.
 - 🔍 Skilled in **SQL, Python, Excel, Tableau, and Metabase**.
 - 📈 Passionate about **data visualization, analytics, and problem-solving**.
 - 📚 Constant learner, exploring **data engineering, automation, and machine learning**.
@@ -15,18 +15,8 @@ I am a **Data Analyst** with 1.5 years of experience, passionate about transform
 ### 🛠️ Tech Stack
 - **Languages:** SQL, Python
 - **Data Analysis & Visualization:** Excel, Tableau, Metabase
-- **Databases & Tools:** Zoho CRM, Jira, Microsoft Office Suite
+- **Tools:** Zoho CRM, Jira, Microsoft Office Suite
 - **Other Skills:** Data Cleaning, Data Extraction, Web Scraping, Dashboards & Reports
-
----
-
-### 📌 Projects
-
-🔹 **[Super Store Sales Analytics](https://github.com/Anmol2205DA/Super-Store-Sales-Analytics)**  
-Conducted sales data analysis using SQL, generating **50+ key insights** and developed an interactive **Tableau dashboard** for sales tracking.
-
-🔹 **[Job Analytics using Web Scraping](https://github.com/Anmol2205DA/Job-Analytics.git)**  
-Performed web scraping using Python, cleaned and analyzed job market data, and built **Tableau visualizations** to highlight key industry trends.
 
 ---
 
