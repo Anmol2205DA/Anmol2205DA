@@ -2,6 +2,8 @@
 
 I am a Data Analyst with 1.5 years of experience. I am passionate about transforming raw data into actionable insights. Skilled in SQL, Python, Excel, and Tableau, I specialize in data analysis, visualization, dashboards & reporting.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Anmol2205DA&color=blue)  
+
 ---
 
 ### 🚀 About Me
@@ -33,9 +35,6 @@ I am a Data Analyst with 1.5 years of experience. I am passionate about transfor
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/anmolsrivastav22)
 [![HackerRank](https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anmolsrivastav14)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anmol2205/) 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anmol2205DA&color=blue)  
 
 ---
 
