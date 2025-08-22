@@ -1,13 +1,13 @@
 ### Hi there! 👋 I'm Anmol Srivastav
 
-I am a Data Analyst with 2 years of experience. I am passionate about building end-to-end data analytics solutions. Skilled in SQL, Python, Snowflake, and Tableau, I specialize in data analysis, data warehousing, data modelling, optimization, data visualization, dashboards & reporting.
+I am a Data Analyst with 2 years of experience & I am passionate about building end-to-end data analytics solutions. Skilled in SQL, Python, Snowflake, DBT, and Tableau, I specialize in data analytics, optimization, data warehousing, data modelling, data visualization, dashboards & reporting.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anmol2205DA&color=blue)  
 
 ---
 
 ### 🚀 About Me
-- 📊 Data Analyst with experience in **data analytics and data-driven decision-making**.
+- 📊 Data Analyst with experience in **data analytics and data engineering**.
 - 🔍 Skilled in **SQL, Python, Snowflake, DBT, Excel, Tableau, and Metabase**.
 - 📈 Passionate about **data engineering, analytics, and problem-solving**.
 - 📚 Constant learner, exploring **data engineering, automation, and machine learning**.
